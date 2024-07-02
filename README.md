@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Cellou
 - 👀 I’m interested in web development technologies
-- 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to collaborate on any project based on Django and React
-- 📫 How to reach me ?!! 💬 cellou649@gmail.com
+- 🌱 I’m currently learning Django and Django REST framework
+- 💞️ I’m looking to collaborate on any project based on Django and Django REST framework
+- 📫 How to reach me ?!! 💬
+  . cellou649@gmail.com
+  . cellou.dev@gmail.com
 
 <!---
 Cellou404/Cellou404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
