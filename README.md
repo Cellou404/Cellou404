@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on any project based on Django and Django REST framework
 - 📫 How to reach me ?!! 💬 cellou649@gmail.com
 
-<!---
-Cellou404/Cellou404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Cellou's GitHub stats](https://github-readme-stats-nu-gray-16.vercel.app/api?username=Cellou404&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
