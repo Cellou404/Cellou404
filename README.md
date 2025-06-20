@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development technologies
 
-🌱 I’m currently learning Django, Django REST framework & React
+🌱 I’m currently learning Django, Django REST framework & VueJS
 
 💞️ I’m looking to collaborate on any project based on Django and Django REST framework
   
